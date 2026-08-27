@@ -2,7 +2,7 @@
 
 Voyo is a trip-planning web app that lets you search for a country, explore practical travel information — local time, currency, languages, public holidays, local events, and a live weather forecast — and save the ones you like to a personal "My Plans" dashboard.
 
-**Live demo:** [add your deployed URL here]
+**Live demo:** [add your deployed URL here](https://voyo-planner.vercel.app)
 
 ![Voyo homepage](docs/screenshots/full-home-desktop.png)
 
