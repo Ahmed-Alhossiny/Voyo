@@ -127,7 +127,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/voyo.git
+git clone https://github.com/Ahmed-Alhossiny/voyo.git
 cd voyo
 
 # Install dependencies
